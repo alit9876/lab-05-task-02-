@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>footer.JPG</file>
+    <file>bar.jpg</file>
+    <file>Capture.JPG</file>
+  </qresource>
+</RCC>
